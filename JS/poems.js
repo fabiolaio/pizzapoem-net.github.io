@@ -125,5 +125,25 @@ const poemsArray = [
     "Sharing playlists\nand pizza deals,\nSuch is life\non digital wheels,\nEmotions and flavors\nin bytes and meals,\nThat’s how today\neveryone feels.",
     "Love's notification\na buzz and a beep,\nPizza's update\nmakes the heart leap,\nIn the world of the internet heap,\nThese are the memories\nwe wish to keep.",
     "GIFs of love\nand cheesy delight,\nIlluminate the screen\noh so bright,\nOnline orders and feelings\nignite,\nPassions of heart and appetite."
+    "Scrolling through\na love so true,\nA pizza pic\noh what a view,\nHearts and likes\nthey both accrue,\nInstagram love\nand cheesy goo.",
+    "Filters on\nfor love and slice,\nIn Insta-world\neverything nice,\nCapturing moments\nwith toppings and ice,\nDigital love\nwith some added spice.",
+    "Stories of love\nfleeting on screen,\nMuch like pizza\ngone and seen,\nYet both leave a feeling\nevergreen,\nIn the world of likes\nand cuisine.",
+    "Double-tapped heart\nfeelings convey,\nJust like the pizza\non display,\nBoth capture moments\nin a unique way,\nLove and hunger\nin a mutual play.",
+    "Hashtags of love\ntrending today,\nAlongside pizza\nleading the way,\nIn the feed of life\nwhere memories lay,\nInstagram and toppings\nin a bright array.",
+    "Swipe up for love\nand cheesy delight,\nStories unfolding\nevery night,\nPizza and romance\nin every byte,\nInstagram's charm\nalways in sight.",
+    "DMs slide with feelings\nso warm,\nMuch like the pizza\nin every form,\nBoth stir the heart\nout of the norm,\nIn the world of filters\na digital storm.",
+    "Reels of love\nplay on repeat,\nWith pizza boomerangs\nlife's so sweet,\nIn the rhythm of likes\nand cheesy beat,\nInstagram memories\nalways neat.",
+    "Followed love\nin every post,\nAnd the pizza\nI crave the most,\nIn the gallery of life\na wonderful host,\nCheers to Instagram\nlet's raise a toast.",
+    "Grids of passion\nand crust so deep,\nLove's archive\nmemories to keep,\nWith every slice and love leap,\nInstagram promises\nthey both seep.",
+    "Explore love\nin every tab,\nNext to pizza\ngrab and nab,\nBoth spark joy\na little dab,\nIn the realm of tags\nand cheesy fab.",
+    "Saved love\nin a collection so pure,\nJust like the pizza\nthat's the lure,\nMoments cherished\nthey assure,\nInstagram and dough\nan epicure.",
+    "Profile of love\nbio so clear,\nPizza highlights\nyear after year,\nBoth tell tales\ndrawing near,\nIn the world of comments\nand crusty cheer.",
+    "Tagged in love\na memory frame,\nAnd the pizza\nthat came,\nBoth moments\nnever the same,\nInstagram's dance\nin love's game.",
+    "Pinned love\nin comments below,\nWith pizza mentions\nthat grow,\nEngagements rise\nin the love flow,\nInstagram and toppings\nin a glow.",
+    "Shared love\nin every story,\nAnd the pizza\nin its glory,\nBoth fleeting and temporary,\nYet they mark\nlife's territory.",
+    "Instagram live\nlove's broadcast,\nWith pizza sessions\nunsurpassed,\nMoments cherished\nso vast,\nIn digital love\nand flavors amassed.",
+    "Love's carousel\nswiping through,\nPizza images\nold and new,\nBoth evoke feelings\nthat brew,\nIn the world of Instagram\nhues and chew.",
+    "Mentions of love\nin every chat,\nNext to pizza\nwhere it's at,\nBoth conversations\ntit-for-tat,\nInstagram's realm\na lovely spat.",
+    "Love's close friends\na secret share,\nJust like the pizza\nrare and rare,\nMoments intimate\nbeyond compare,\nInstagram whispers\nin the digital air."
     //... add more poems here
 ];
