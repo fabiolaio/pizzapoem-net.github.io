@@ -99,7 +99,31 @@ const poemsArray = [
     "E-commerce love\nadd to cart,\nPizza's order\na culinary art,\nBoth selections\nplay a part,\nIn the digital age\nthey're love's chart.",
     "Binge-watching shows\nnight so long,\nPizza delivery\ncan't go wrong,\nBoth companions\nwhere they belong,\nIn online narratives\nlove's song.",
     "Gaming together\nin virtual spree,\nPizza on the side\nfor you and me,\nBoth adventures\nas we see,\nIn pixels and slices\nwe're free.",
-
-
+    "Click and order\nlove’s delight,\nPizza on its way tonight,\nHeartbeats match the waiting time,\nFor love\nand cheesy bites sublime.",
+    "Swipe for love\nclick for pizza,\nModern life couldn’t be easier,\nBoth warm and fresh\ndelivered fast,\nMoments cherished\nmemories that last.",
+    "Pizza’s crust\ngolden and thin,\nMatches the rush of love’s first spin,\nOrdering online\nhearts intertwine,\nBoth are sweet\nand both are mine.",
+    "Late-night talks\nand texts so deep,\nOrder a pizza\nbefore we sleep,\nConversations and slices\nso profound,\nIn internet love\nwe both are bound.",
+    "Love notifications\na joyous sound,\nJust like the pizza\nthat's now inbound,\nMoments of anticipation\nheart's astound,\nFor love and pizza\nforever unbound.",
+    "Streaming love\npixels convey,\nJust like the pizza app's display,\nEmotions real\nin the digital play,\nTrue love and hunger\nfind their way.",
+    "Tweets of love\nhashtags of care,\nOrder confirmed\npizza in the air,\nIn a world digital\nbeyond compare,\nPizza and love\nthe perfect pair.",
+    "Online status: 'In a relationship',\nPizza status: 'Preparing your dish',\nLove and food\nboth delish,\nModern wishes\nevery heart's wish.",
+    "Emoji hearts and cheesy slice,\nDigital age\nisn’t it nice?\nOrdering love and food\nprecise,\nEvery byte and bite\nfeels like paradise.",
+    "E-cards sent\nfeelings to tell,\nPizza ordered\nwith the right bell,\nFrom websites to apps\nwhere we dwell,\nStories of online love\nwe love to retell.",
+    "Heart reacts on every meme,\nPizza's image\nin my dream,\nBoth so real\nor so it seem,\nIn the digital glow\nwe both beam.",
+    "Pizza tracker\nexcitement grows,\nMuch like when love\ntruly shows,\nAwaiting the doorbell\neveryone knows,\nThe joy when either\ntruly bestows.",
+    "Love’s DM\na secret space,\nJust like the pizza\nsoon to grace,\nMy doorstep and heart\nembrace,\nOnline wonders\nat a steady pace.",
+    "Pixelated confessions\nlove so true,\nPizza on its way\nfor me and you,\nIn the virtual world\neverything's new,\nYet love and hunger\nare feelings we knew.",
+    "Digital dates\nlove’s new front,\nPizza’s aroma\non the hunt,\nBoth unique\nwith their own stunt,\nFulfilling every single want.",
+    "Ordered love\nwith a side of cheese,\nInternet has made\neverything a breeze,\nBe it heartfelt chats\nor pizza with ease,\nBoth bring the heart\nimmense peace.",
+    "Ringtone sings\nmessage from the dear,\nSimilarly\npizza too is near,\nTwo notifications\nI love to hear,\nFor they both\nbring me cheer.",
+    "In the cart\nlove and pizza lay,\nCheckout soon\nwithout delay,\nBoth essential\nin today’s foray,\nMaking life better\nin every way.",
+    "Zoom date\nfaces on screen,\nPizza shared\nthough unseen,\nLove in the time\nof quarantine,\nBoth experiences\nso serene.",
+    "Add to wishlist: love and pie,\nOrdering both\nwhy not try?\nIn the realm of Wi-Fi,\nBoth fly high\nin the sky.",
+    "Basket full\nwith love and toppings,\nHeartbeats and oven\nboth are hopping,\nWith every online order\nand heart stopping,\nLife feels complete\nwith no dropping.",
+    "Filtered love\nin frames and crust,\nOnline tales\nof passion and trust,\nWith every swipe\norder\nand thrust,\nIn digital love and pizza\nwe lust.",
+    "Cart updated\nwith feelings so pure,\nAnd a pizza\nthat's the ultimate lure,\nIn the online world\neverything's a blur,\nBut love and food\nare the cure.",
+    "Sharing playlists\nand pizza deals,\nSuch is life\non digital wheels,\nEmotions and flavors\nin bytes and meals,\nThat’s how today\neveryone feels.",
+    "Love's notification\na buzz and a beep,\nPizza's update\nmakes the heart leap,\nIn the world of the internet heap,\nThese are the memories\nwe wish to keep.",
+    "GIFs of love\nand cheesy delight,\nIlluminate the screen\noh so bright,\nOnline orders and feelings\nignite,\nPassions of heart and appetite."
     //... add more poems here
 ];
