@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+    <TITLE>Welcome to Pizza Poem!</TITLE>
+    <style>
+        body, div, h1, p, table, td {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: #d0d0d0;
+            color: #000000;
+            margin: 20px;
+        }
+
+        h1 {
+            background-color: red;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        table {
+            width: 100%;
+        }
+
+        a {
+            color: #0000ff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #ff0000;
+        }
+    </style>
+</HEAD>
+
+<BODY BGCOLOR="#d0d0d0" TEXT="#000000" LINK="#0000ff" VLINK="#5500cc" ALINK="#ff0000">
+    <table cellpadding="0">
+        <tr>
+            <td>
+                <font face="arial" size="2">
+                    <strong>Document Title:</strong> <INPUT NAME="title" VALUE="Welcome to PizzaPoem!" SIZE="40"><BR>
+                    <strong>Document URL:</strong> <INPUT NAME="url" VALUE="http://www.pizzapoem.net" SIZE="40">
+                </font>
+            </td>
+            <td>
+                <IMG SRC="http://www.pizzahut.com/assets/pizzanet/images/mosaicstill.gif" BORDER="0" ALIGN="RIGHT" HEIGHT="60" WIDTH="55" ALT="">
+            </td>
+        </tr>
+    </table>
+
+    <HR>
+
+    <IMG SRC="./Pizza_Hut_logo.png" style="display: block; margin: 20px auto;"><BR>
+    <H1>Welcome to PizzaPoem!</H1>
+    <P>
+        Welcome to our vintage-style website dedicated to poems that merge the romantic allure of love with the tantalizing taste of pizza. 
+     <br>   
+        Click the button below to generate a poem!
+    </br>
+    </P>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div id="poemDisplay"></div>
+
+    <button onclick="generatePoem()" style="display: block; margin: 20px auto; padding: 10px; background-color: red; color: white; border: none; cursor: pointer;">Generate Poem</button>
+    
+    <HR>
+
+    <IMG SRC="http://www.pizzahut.com/assets/pizzanet/images/SCO_logo.gif">
+    <P><br></P>
+
+    <script src="./JS/poems.js"></script>
+    <script src="./JS/scripts.js"></script>
+
+
+</BODY>
+
+
+
+
+</HTML>
