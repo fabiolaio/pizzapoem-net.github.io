@@ -185,10 +185,10 @@ const poemsArray = [
     "Swipe left on despair,\nright on the sleep,\nOf pizza dreams,\nwhere feelings seep,\nLost in the feed,\nlove's echo beep,\nAmidst online chaos,\nechoes shadows leap.",
     "Heart reacts,\nyet the void is steep,\nPizza,\na fleeting joy,\nin the online heap,\nStreaming sorrow,\nwhere memories peep,\nIn the algorithm's pull,\nour promises keep.",
     "BRB,\nin this digital space we sweep,\nYet,\npizza's aroma reminds of a leap,\nInto love's chasm,\nhaunting and deep,\nWhere echoes words,\nour souls do reap.",
-    "Ghosted in chats,\nwhere shadows creep,\nPizza's comfort,\nis all I seek,\nStreaming past love,\na dive so steep,\nEchoes of Plath,\nin every heartbeep.",
+    "Ghosted in chats,\nwhere shadows creep,\nPizza's comfort,\nis all I seek,\nStreaming past love,\na dive so steep,\nEchoes of chaos,\nin every heartbeep.",
     "No filter for love,\nor the sorrow we reap,\nYet,\npizza brings solace,\nbreaking the sleep,\nLost in the online maze,\nfeelings steep,\nUnder echoes moon,\nour secrets we keep.",
     "Notifications silent,\ninto the void we leap,\nYet pizza's glow,\nour hearts does keep,\nStreaming echoes lullaby,\nmaking us weep,\nLove online,\na commitment so deep.",
-    "Emojis mask,\nthe pain so steep,\nBut pizza? It stirs love in a heap,\nStreaming in the abyss,\nwhere shadows creep,\nPlath whispers,\n'love's dive is deep'.",
+    "Emojis mask,\nthe pain so steep,\nBut pizza? It stirs love in a heap,\nStreaming in the abyss,\nwhere shadows creep,\ninternet whispers,\n'love's dive is deep'.",
     "Pixelated love,\nthe cost is steep,\nPizza's crust,\na promise to keep,\nIn the dark web,\nechoes words leap,\nEchoing love's haunting beep.",
     "AFK from sorrow,\ninto dreams we seep,\nYet,\npizza's warmth,\nour souls does sweep,\nStreaming memories,\nwhere love does creep,\nIn echoes embrace,\nthe internet's leap.",
     "On read,\nlove's promise gone cheap,\nYet,\npizza's cheese pulls feelings deep,\nStreaming the night,\nechoes shadows creep,\nIn the digital dance,\nlove's cost is steep.",
@@ -211,5 +211,15 @@ const poemsArray = [
     "Tweets mask,\nlove's sorrow so deep,\nYet,\npizza's embrace,\nover night does creep,\nLost in the online maze,\nechoes echo does beep,\nWhispering love's secrets,\nin the deep.",
     "Gaming away sorrows,\nyet they leap,\nPizza's fleeting joy,\nin heart does seep,\nStreaming echoes rhythm,\nmaking us weep,\nLove online,\na bond so steep.",
     "Streaming love,\nyet alone we sleep,\nPizza,\na momentary comfort,\nover sorrows does sweep,\nIn the digital void,\nechoes shadows creep,\nEchoing love's tales,\nthat we keep.",
+    "In the oven's warm embrace,\nour love bakes like a pizza,\ncrisp, golden, and intertwined.",
+    "Together in flavor,\nlike cheese and tomato,\nmelting into the crust of eternity.",
+    "In the heat of the kitchen,\nour hearts merge like toppings,\nblending in delicious harmony.",
+    "Our whispers mingle over slices,\nlike herbs over mozzarella,\ninfusing love in every bite.",
+    "In the heart of the pizzeria,\nour laughter twirls like dough,\nrising in the warmth of affection.",
+    "Lying side by side, like pepperoni on sauce,\nour love seasoned and baked to perfection.",
+    "In the glow of the pizza oven,\nour promises crisp up,\ninto golden moments of joy.",
+    "With each slice we share,\nour memories layer like toppings,\nrich and full of zest.",
+    "Embraced in the aroma of pizza,\nour love story unfolds,\nin each cheesy, savory bite.",
+    "As the pizza rises in the oven,\nso does our love,\ncheesy, warm, and ever-satisfying."    
     //... add more poems here
 ];
